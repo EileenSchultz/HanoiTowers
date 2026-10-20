@@ -4,7 +4,6 @@
 
 ![Unity](https://img.shields.io/badge/Unity-6.6-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -29,9 +28,9 @@
 4. Цель: переместить все диски с левого стержня на правый
    
 **Правила**
-- ✅ Можно класть диск только на пустой стержень или на диск большего размера
-- ❌ Нельзя класть большой диск на маленький
-- 🏆 Победа: все диски на правом стержне
+- Можно класть диск только на пустой стержень или на диск большего размера ✅
+- Нельзя класть большой диск на маленький ❌
+- Победа: все диски на правом стержне  🏆
 
 **Авто-решение**
 1. Нажмите кнопку "Auto Solve"

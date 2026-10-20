@@ -118,17 +118,17 @@ HanoiTowers/
    - Нажмите Add → выберите папку HanoiTowers
    - Дождитесь импорта (Unity создаст папки Library, Temp автоматически)
 3. Откройте сцену:
-  - В окне Project перейдите в Assets/Scenes/
-  - Дважды кликните на SampleScene
+   - В окне Project перейдите в Assets/Scenes/
+   - Дважды кликните на SampleScene
 4. Запустите игру:
     Нажмите кнопку ▶ Play в верхней панели Unity
 5. Сборка в .exe
 В Unity: File → Build Profiles
-  - Выберите платформу Windows
-  - Убедитесь что сцена SampleScene добавлена в Scene List
-  - Нажмите Build
-  - Выберите папку для сохранения
-  - Запустите полученный HanoiTowers.exe
+     - Выберите платформу Windows
+     - Убедитесь что сцена SampleScene добавлена в Scene List
+     - Нажмите Build
+     - Выберите папку для сохранения
+     - Запустите полученный HanoiTowers.exe
 Готовый билд также доступен в разделе Releases этого репозитория.
 
 
